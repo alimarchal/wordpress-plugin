@@ -151,12 +151,12 @@ Namespace `/wp-json/seosaas/v1/` · resources: `/pairing`, `/inventory`, `/draft
 | M6 Hardening & release | Security review, compatibility matrix, docs, release ZIP, pilot on 3–5 sites | 1.5 wk |
 
 Estimates are illustrative (~12–14 weeks for one developer incl. pilot). Milestones are tracked in
-four GitHub tracking issues — see the [issue list](https://github.com/alimarchal/wordpress-plugin/issues):
+four GitHub tracking issues:
 
-1. Foundation, configuration, pairing and security base (M0–M1)
-2. Content inventory, background jobs and audit log (M2)
-3. Draft publishing and internal linking (M3–M4)
-4. Admin React UI, CI/CD and release hardening (M5–M6)
+1. [#2](https://github.com/alimarchal/wordpress-plugin/issues/2) Foundation, configuration, pairing and security base (M0–M1)
+2. [#3](https://github.com/alimarchal/wordpress-plugin/issues/3) Content inventory, background jobs and audit log (M2)
+3. [#4](https://github.com/alimarchal/wordpress-plugin/issues/4) Draft publishing and internal linking (M3–M4)
+4. [#5](https://github.com/alimarchal/wordpress-plugin/issues/5) Admin React UI, CI/CD and release hardening (M5–M6)
 
 ## Testing
 
