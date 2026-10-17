@@ -1,0 +1,14 @@
+.git*
+.github/
+tests/
+docs/
+bin/
+node_modules/
+assets/admin/
+composer.lock
+phpunit.xml.dist
+phpcs.xml.dist
+phpstan.neon.dist
+.env*
+*.md
+!readme.txt
